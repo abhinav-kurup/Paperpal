@@ -1,0 +1,9 @@
+helpers/
+llama-cpp/
+data/
+
+.env
+
+core/__pycache__/
+
+authenticator/__pycache__/
